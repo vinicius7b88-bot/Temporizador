@@ -1,0 +1,61 @@
+
+
+
+
+
+body{
+   background-image: url(https://64.media.tumblr.com/f428a35a07fc53a5afbd6112ceae22f2/tumblr_p84900Oe3x1wk0ifjo1_1280.gif); 
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+   
+   
+   
+}
+ 
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 0, 212);
+    padding: 15px;
+    font-size: 25px;
+    border-radius: 30px;
+    margin: 15px;
+    border: solid #fff
+    
+
+}
+
+
+.cronometro{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+
+h1{
+    color: gold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 213, 3);
+    font-size: 90px;
+
+}
+
+
+
+footer{
+    margin-top: 158px;
+    padding: 10px;
+    background-image: linear-gradient(to right, gold, rgb(255, 0, 212));
+    color: rgb(0, 0, 0);
+    font-family: fantasy
+    
+}
